@@ -1,2 +1,2 @@
-# laryssa-3c
-trabalho realizados nas aulas 
+# Matematica-II-3C
+Repositório das aulas de Matemática II.
